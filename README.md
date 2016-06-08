@@ -1,0 +1,2 @@
+# privyet
+the bot neves
